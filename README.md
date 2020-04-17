@@ -23,5 +23,7 @@ beta visualization corso
 
 ``` blocco di codice ```
 
-![Mia_foto1](flowers.jpg)
+![image-pandas](image-pandas.png)
+
+![image-pandas-pie](image-pandas-pie.png)
 
